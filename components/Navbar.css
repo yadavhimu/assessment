@@ -1,0 +1,14 @@
+.top{
+    background-color: aqua;
+    width:100vw;
+    height:8vh;
+}
+
+.topInside{
+    display:flex;
+    justify-content: space-around;
+    width:80%;
+    margin-left:100px;
+    padding-top: 13px;
+     
+}
