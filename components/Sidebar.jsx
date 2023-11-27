@@ -8,7 +8,7 @@ const Sidebar = () => {
            <div id='square'>
            </div>
            <div id='insidetext'>
-            <h3>New Form</h3>
+            <h3>New Form1</h3>
             <p>Start creating a new form with the wide <br></br>options of fields available</p>
            </div>
           </div>
@@ -18,7 +18,7 @@ const Sidebar = () => {
            <div id='square'>
            </div>
            <div id='insidetext'>
-            <h3>New Form</h3>
+            <h3>New Form2</h3>
             <p>Start creating a new form with the wide <br></br>options of fields available</p>
            </div>
           </div>
@@ -28,7 +28,7 @@ const Sidebar = () => {
            <div id='square'>
            </div>
            <div id='insidetext'>
-            <h3>New Form</h3>
+            <h3>New Form3</h3>
             <p>Start creating a new form with the wide <br></br>options of fields available</p>
            </div>
           </div>
@@ -38,7 +38,7 @@ const Sidebar = () => {
            <div id='square'>
            </div>
            <div id='insidetext'>
-            <h3>New Form</h3>
+            <h3>New Form4</h3>
             <p>Start creating a new form with the wide <br></br>options of fields available</p>
            </div>
           </div>
