@@ -19,7 +19,7 @@ const Sidebar = () => {
            </div>
            <div id='insidetext'>
             <h3>New Form2</h3>
-            <p>Start creating a new the wide <br></br>options of available</p>
+            <p>Start creating a the wide <br></br>options of available</p>
            </div>
           </div>
        </div>
